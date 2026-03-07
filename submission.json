@@ -1,7 +1,7 @@
 {
-  "prompt": "A sprawling, impossibly vast ancient library. On the left side, intricate, towering wooden bookshelves packed tightly with ancient, breathing, moss-covered leather books. Ascending suddenly to the right, the bookshelves have been violently sheared off and replaced by cold, sterile, blank white concrete walls that stretch into nothingness. Volumetric lighting, dust motes in the air, hyper-realistic macro photography --no text, no charts, no people.",
-  "model": "Google Deepmind Image Model",
-  "dataset_name": "Global Forest Watch - Primary Forest Loss",
-  "dataset_url": "https://www.globalforestwatch.org/dashboards/global/",
-  "insight": "Complex, irreplaceable histories that took millennia to build are being rapidly wiped blank, leaving behind sterile emptiness."
+    "prompt": "A professional, cinematic, high-resolution photograph of a sprawling ancient library on the left side, which is abruptly cut off by a cold, blank white concrete wall stretching to infinity. 8k resolution, masterpieces.",
+    "model": "DALL·E 3 via Bing Image Creator",
+    "dataset_name": "Global Forest Watch - Primary Forest Loss",
+    "dataset_url": "https://www.globalforestwatch.org/dashboards/global/",
+    "insight": "Complex, irreplaceable histories that took millennia to build are being rapidly wiped blank, leaving behind sterile emptiness."
 }
