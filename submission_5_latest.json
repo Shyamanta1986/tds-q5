@@ -1,0 +1,7 @@
+{
+  "prompt": "Generate a photorealistic aerial cinematic image, minimum 1024x1024 resolution, saved as image_5_latest.jpg: A dense Amazon rainforest shot from high above, showing the distinctive FISHBONE pattern of illegal logging — a central road cutting deep into the forest with smaller roads branching off like fish bones, each branch leaving behind a corridor of cleared, burned brown earth surrounded by rich green canopy. The contrast between the living green and the dead brown fishbone scar should feel visceral and surgical — like a wound being methodically cut into living tissue. Golden hour light, smoke rising from the freshest cuts, photorealistic, 8K quality, no text, no labels, no people, no charts.",
+  "model": "Gemini 3.1 Pro (High) via Antigravity",
+  "dataset_name": "Global Forest Watch - Primary Forest Loss",
+  "dataset_url": "https://www.globalforestwatch.org/dashboards/global/",
+  "insight": "Amazon deforestation follows a systematic fishbone pattern — roads carve methodically into living forest, each branch leaving behind skeletal corridors of burned earth that spread like a parasitic infection through ancient canopy."
+}
